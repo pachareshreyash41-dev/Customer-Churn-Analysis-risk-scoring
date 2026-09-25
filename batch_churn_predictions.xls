@@ -1,0 +1,11 @@
+CustomerID,Predicted_Churn_Prob,Risk_Tier,Support_Tickets,Payment_Delay_Days
+CUST_0546,0.788,High Risk,4,17
+CUST_0299,0.6162,Medium Risk,0,25
+CUST_0110,0.4573,Medium Risk,2,14
+CUST_0838,0.3539,Medium Risk,2,16
+CUST_0195,0.7644,High Risk,4,18
+CUST_0606,0.1565,Low Risk,1,2
+CUST_0247,0.6613,High Risk,5,13
+CUST_0694,0.501,Medium Risk,3,9
+CUST_0803,0.3867,Medium Risk,2,2
+CUST_0407,0.5773,Medium Risk,5,28
